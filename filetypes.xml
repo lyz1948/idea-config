@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockfile" type="PLAIN_TEXT" />
+      <mapping ext="flt" type="HTML" />
       <mapping pattern=".gitmodules" type="PLAIN_TEXT" />
+      <mapping pattern="Dockfile" type="PLAIN_TEXT" />
       <mapping pattern="CategoryMapper.xml" type="XML" />
     </extensionMap>
   </component>
